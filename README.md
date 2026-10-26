@@ -1,30 +1,30 @@
-# FreshBite – Food Delivery Landing Page
+# The Great Wall of China – Travel Landing Page
 
 ## Project Overview
-FreshBite is a responsive food delivery landing page designed in Figma. It helps users discover fresh meals and order food conveniently.
+This project is a travel landing page inspired by the Great Wall of China. It presents the landmark's history, popular visitor sections, and travel information through a visually engaging and user-friendly interface.
 
 ## Features
 - Responsive desktop and mobile layouts
-- Clean and modern user interface
-- Hero section with a call-to-action button
-- Three feature cards highlighting the service
-- How It Works section
-- Footer with navigation links
-- Reusable components and Auto Layout
+- Hero section with a travel-focused call to action
+- Historical information and key facts
+- Featured destinations: Mutianyu, Badaling, and Jinshanling
+- Travel tips section
+- Clean navigation and footer
+- Consistent typography and color palette
 
 ## Tools Used
 - Figma
-- Auto Layout
-- Components and color variables
+- UI/UX Design
+- Responsive Layout Design
 
 ## Target Audience
-People who want to order fresh food conveniently, especially students, working professionals, and busy families.
+Travelers, tourists, history enthusiasts, and people interested in exploring Chinese cultural heritage.
 
 ## Design Approach
-The design uses a fresh green and cream color palette to communicate freshness and simplicity. Clear headings, organized sections, and prominent buttons help users navigate the page easily.
+The design uses earthy colors, mountain greens, warm beige, and traditional red accents to reflect the Great Wall's historical character and natural surroundings. Clear headings and organized content help visitors explore the landmark and discover useful travel information.
 
 ## Figma Project
-[View the FreshBite Design](https://www.figma.com/design/XBW2LPEleO8Ne3nYte4yOK)
+[View the Great Wall of China Design](https://www.figma.com/design/wN6E1h0fw5FXEmqSbfSVXO)
 
 ## Author
 Created as a UI/UX design assignment.
